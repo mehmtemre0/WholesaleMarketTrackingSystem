@@ -1,0 +1,45 @@
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form1.resources
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form2.resources
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form3.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form1.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form2.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form3.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzip\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form1.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form2.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form3.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgramiasılzipasıl\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\bin\Debug\hal takip programı.exe.config
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form1.resources
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form2.resources
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\mal_kabul_sistemi.Form3.resources
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\haltakipyedek.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\MEMRE\OKUL DERSLER 2. SINIF\2.dönem\veritabanı\asılhaltakiphocayasunulan\hal takip programı\obj\x86\Debug\hal takip programı.pdb

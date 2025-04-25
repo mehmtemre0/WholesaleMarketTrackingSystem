@@ -1,0 +1,29 @@
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal_takip_programı.Form1.resources
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.csproj.GenerateResource.Cache
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\bt559\Desktop\ömer\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal_takip_programı.Form1.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\1hal takip programı\hal takip programı\obj\x86\Debug\hal takip programı.csproj.GenerateResource.Cache
+D:\CsharpProjeleri\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.exe
+D:\CsharpProjeleri\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\bin\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\bin\Debug\hal takip programı.pdb
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal_takip_programı.Form1.resources
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal_takip_programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.exe
+C:\Users\EMRE\Desktop\HalTakipProgrami\hal takip programı\obj\x86\Debug\hal takip programı.pdb
